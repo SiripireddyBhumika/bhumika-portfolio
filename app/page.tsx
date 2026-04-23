@@ -157,7 +157,7 @@ export default function Portfolio() {
             display: "block",
           }}
         >
-          FRONTEND DEVELOPER
+          FULLSTACK DEVELOPER
         </span>
 
         <h1
